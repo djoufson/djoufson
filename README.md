@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **Djoufson/Djoufson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## I am Djoufson
+- 🧑🏾‍💻 I'm a **.NET Mobile** and **Game Developper**
+- 🌱 I’m currently learning **C++ for [Unreal Engine](mailto:djouflegran@gmail.com)**
+- 💬 Ask me about fun facts on C# 😅
+- 📫 How to reach me: [djouflegran@gmail.com](mailto:djouflegran@gmail.com)
+
+## Statistics
+![wakatime-stats](./Images/Stack.png)
