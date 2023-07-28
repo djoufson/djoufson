@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [djouflegran@gmail.com](mailto:djouflegran@gmail.com)
 
 ## Statistics
-![wakatime-stats](./Images/Stack.png)
+[![Djoufson's github stats](https://github-readme-stats.vercel.app/api?username=djoufson&show_icons=true&theme=github_dark)](https://github.com/djoufson/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djoufson&layout=compact&theme=github_dark)](https://github.com/djoufson/github-readme-stats)
 
 ## Languages and Tools
 <div>
