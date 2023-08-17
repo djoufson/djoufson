@@ -7,9 +7,9 @@
 
 ## Statistics
 [![Djoufson's github stats](https://github-readme-stats.vercel.app/api?username=djoufson&count_private=true&show_icons=true&theme=github_dark&hide_rank=false)](https://github.com/djoufson/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djoufson&layout=compact&theme=github_dark)](https://github.com/djoufson/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djousfon&layout=compact)](https://github.com/djoufson/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djoufson&layout=compact&theme=radical)](https://github.com/djoufson/github-readme-stats)
+
 ## Languages and Tools
 <div>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img height="40" alt="C#" src="./Images/csharp.png"/></a>
