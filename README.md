@@ -1,7 +1,6 @@
 # Hi there 👋
 ## I am Djoufson
-- 🧑🏾‍💻 I'm a **.NET Mobile** and **Game Developper**
-- 🌱 I’m currently learning **C++ for [Unreal Engine](https://www.unrealengine.com/en-US)**
+- 🧑🏾‍💻 I'm a **.NET Developer** and **Game Development enthusiast**
 - 💬 Ask me about fun facts on C# 😅
 - 📫 How to reach me: [djouflegran@gmail.com](mailto:djouflegran@gmail.com)
 
