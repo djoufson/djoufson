@@ -1,25 +1,24 @@
-# Hi there 👋
-## I am Djoufson
-- 🧑🏾‍💻 I'm a **.NET Developer** and **Game Development enthusiast**
-- 💬 Ask me about fun facts on C# 😅
-- 📫 How to reach me: [djouflegran@gmail.com](mailto:djouflegran@gmail.com)
+# Djoufson's World 🌍
 
-## Statistics
+I am a **.NET Developer** who ❤️ open source.
+
+## Some stats
 [![Djoufson's github stats](https://github-readme-stats.vercel.app/api?username=djoufson&count_private=true&show_icons=true&theme=github_dark&hide_rank=false)](https://github.com/djoufson/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djoufson&layout=compact&theme=radical)](https://github.com/djoufson/github-readme-stats)
 
 ## Languages and Tools
-<div>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img height="40" alt="C#" src="./Images/csharp.png"/></a>
-<a href="https://unity.com/"><img width=40 alt="Unity" src="./Images/unity.png"/></a>
-<a href="https://dotnet.microsoft.com/en-us/"><img width=40 alt=".NET Core" src="./Images/dotnetCore.png"/></a>
-<a href="https://www.w3schools.com/css/"><img width=40 alt="CSS 3" src="./Images/css3.png"/></a>
-<a href="https://www.w3.org/html/"><img width=40 alt="HTML 5" src="./Images/html5.png"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img width=40 alt="JavaScript" src="./Images/js.png"/></a>
-<a href="https://www.python.org/"><img width=40 alt="Python" src="./Images/python.png"/></a>
-<a href="https://reactjs.org/"><img width=40 alt="React JS" src="./Images/react.png"/></a>
-<a href="https://dotnet.microsoft.com/en-us/apps/xamarin/xamarin-forms"><img width=40 alt="Xamarin Forms" src="./Images/xamarin.svg"/></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/maui"><img width=40 alt=".NET MAUI" src="./Images/maui.png"/></a>
-<a href="https://sass-lang.com/"><img width=40 alt="SCSS" src="./Images/sass.png"/></a>
+<div style="display:flex;flex-wrap:wrap;max-width: 400px;justify-content:center;margin:auto;gap:6px">
+    <a target="_blank" href="https://azure.microsoft.com/en-us"><img height="50" alt="Azure" src="./Images/azure.png"/></a>
+    <a target="_blank" href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img height="50" alt="C#" src="./Images/csharp.png"/></a>
+    <a target="_blank" href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor"><img width=50 alt="Blazor" src="./Images/blazor.png"/></a>
+    <a target="_blank" href="https://www.docker.com"><img width=50 alt="Docker" src="./Images/docker.png"/></a>
+    <a target="_blank" href="https://kubernetes.io"><img width=50 alt="Kubernetes" src="./Images/kubernetes.png"/></a>
+    <a target="_blank" href="https://learn.microsoft.com/en-us/dotnet/aspire/get-started/aspire-overview"><img width=50 alt="Aspire" src="./Images/aspire.png"/></a>
+    <a target="_blank" href="https://unity.com/"><img width=50 alt="Unity" src="./Images/unity.png"/></a>
+    <a target="_blank" href="https://www.python.org/"><img width=50 alt="Python" src="./Images/python.png"/></a>
+    <a target="_blank" href="https://reactjs.org/"><img width=50 alt="React JS" src="./Images/react.png"/></a>
+    <a target="_blank" href="https://dotnet.microsoft.com/en-us/apps/xamarin/xamarin-forms"><img width=50 alt="Xamarin Forms" src="./Images/xamarin.svg"/></a>
+    <a target="_blank" href="https://learn.microsoft.com/en-us/dotnet/maui"><img width=50 alt=".NET MAUI" src="./Images/maui.png"/></a>
+
 </div>
