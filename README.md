@@ -3,9 +3,9 @@
 I am a **.NET Developer** who ❤️ open source.
 
 ## Some stats
-[![Djoufson's github stats](https://github-readme-stats.vercel.app/api?username=djoufson&count_private=true&show_icons=true&theme=github_dark&hide_rank=false)](https://github.com/djoufson/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djoufson&layout=compact&theme=radical)](https://github.com/djoufson/github-readme-stats)
+
+[![Djoufson's github stats](https://github-readme-stats.vercel.app/api?username=djoufson&count_private=true&show_icons=true&theme=github_dark&hide_rank=false)](https://github.com/djoufson/github-readme-stats)
 
 ## Languages and Tools
 <div style="display:flex;flex-wrap:wrap;max-width: 400px;justify-content:center;margin:auto;gap:6px">
