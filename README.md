@@ -10,10 +10,13 @@ I am a **.NET Developer** who ❤️ open source.
 ![Djoufson](https://github-readme-streak-stats.herokuapp.com/?user=Djoufson&theme=github_dark&hide_border=false)<br/>
 
 ## Do you want to support me?
-To encourage me and help me help more and more people, I need a funding procedure
-
-
-<p><a href="https://www.buymeacoffee.com/djoufson"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bedbug" /></a
+To encourage me and and value my work, you can
+<p>
+    <a href="https://www.buymeacoffee.com/djoufson"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bedbug" />
+    </a>
+</p>
+<br/>
+<br/>
 
 ## Languages and Tools
 <div style="display:flex;flex-wrap:wrap;max-width: 400px;justify-content:center;margin:auto;gap:6px">
