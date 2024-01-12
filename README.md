@@ -7,7 +7,7 @@ I am a **.NET Developer** who ❤️ open source.
 
 [![Djoufson's github stats](https://github-readme-stats.vercel.app/api?username=djoufson&count_private=true&show_icons=true&theme=github_dark&hide_rank=false)](https://github.com/djoufson/github-readme-stats)
 
-![Djoufson](https://github-readme-streak-stats.herokuapp.com/?user=Djoufson&theme=github_dark&hide_border=false)<br/>
+<!-- ![Djoufson](https://github-readme-streak-stats.herokuapp.com/?user=Djoufson&theme=github_dark&hide_border=false)<br/> -->
 
 ## Do you want to support me?
 To encourage me and and value my work, you can
