@@ -12,7 +12,7 @@ I am a **.NET Developer** who ❤️ open source.
 ## Do you want to support me?
 To encourage me and and value my work, you can
 <p>
-    <a href="https://www.buymeacoffee.com/djoufson"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bedbug" />
+    <a href="https://www.buymeacoffee.com/djoufson" target="_blank"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bedbug" />
     </a>
 </p>
 <br/>
