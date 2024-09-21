@@ -2,6 +2,8 @@
 
 I am a **.NET Developer** who ❤️ open source.
 
+For some reasons, I am currenntly learning **Vue JS** 🤯🙆🏾‍♂️
+
 ## Some stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djoufson&layout=compact&theme=github_dark)](https://github.com/djoufson/github-readme-stats)
 
