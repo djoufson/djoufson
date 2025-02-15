@@ -1,6 +1,6 @@
 # Djoufson's World 🌍
 
-I am a **.NET Developer** who ❤️ open source.
+I am a **Software Engineer** who ❤️ open source.
 
 For some reasons, I am currenntly learning **Vue JS** 🤯🙆🏾‍♂️
 
